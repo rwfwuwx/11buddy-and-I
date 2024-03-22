@@ -53,8 +53,8 @@ Now you conceive an idea, to test it, you decide to
   (xiaohu is on the way comming ...)
 
 All together, 
-- what you have decided and the according instructions sent to 11buddies formed, （we call it ）a Study_TaskList;
-- by which 11buddies work with you, finish your research.
+- what you have decided and the according instructions sent to 11buddies formed, （we call it ）a **Study_TaskList**;
+- by which 11buddies work with you, finishing your research.
 
 ![11buddy_illustration_20220721_small](https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/8522c03f-8a91-4b19-bc0a-1a5fda6ac0e6)
 
