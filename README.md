@@ -5,7 +5,7 @@
 
 
 ## Who are they ?
-(Since 2021-01-29, 11buddy-and-I has been on https://gitee.com/rwfwuwx/elevenBuddy. From 2024, latest updates are now maintained here. 
+(11buddy-&-I has been on https://gitee.com/rwfwuwx/elevenBuddy since 2021-01-29. From 2024, latest updates are now maintained here. 
 The Gitee version may be lack of maintenance).
 
 First meet with 11buddy.
