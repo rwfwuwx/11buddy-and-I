@@ -68,21 +68,9 @@ Instead of the conventional interactions between you and students (*teacher-stud
 ## Notes
 ### dependency
 - Matlab
-- Psychtoolbox
-
-  base library used by yangyang
-- mfeeg
-
-  base library used by andy
-- eeglab
-
-  preprocessing (ica) used by andy
-- Brainstorm
-
-  preprocessing (source transformation) used by andy
-- spm
-
-  base library used by dahei
-- BrainNet Viewer
-
-  data visualization
+- Psychtoolbox: base library used by yangyang
+- mfeeg: base library used by andy
+- eeglab: preprocessing (ica) used by andy
+- Brainstorm: preprocessing (source transformation) used by andy
+- spm: base library used by dahei
+- BrainNet Viewer: data visualization used by ada.
