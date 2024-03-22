@@ -57,7 +57,7 @@ All together,
 ![11buddy_illustration_20220721_small](https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/8522c03f-8a91-4b19-bc0a-1a5fda6ac0e6)
 
 #### Research - 'focus'
-Sounds great... However, you know, the publish or perish? **Buddy, what exactly can you do for me**.
+Sounds great... Well, you know, the 'publish or perish'? **Buddy, what exactly can you do for me**, hurry up.
 
 ...got it. Have a look at https://github.com/rwfwuwx/Xianglab-publication-code.
 
