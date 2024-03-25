@@ -61,7 +61,7 @@ All together,
 #### Research - 'focus'
 Sounds great... Well, you know, the 'publish or perish'? **Buddy, what exactly can you do for me**, hurry up.
 
-...got it. Have a look at https://github.com/rwfwuwx/Xianglab-publication-code.
+...got it. For example, Have a look at https://github.com/rwfwuwx/Xianglab-publication-code.
 
 #### Teaching
 You might be a teacher. 
