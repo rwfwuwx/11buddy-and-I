@@ -50,7 +50,7 @@ Now you conceive an idea, to test it, you decide to
 
 - [report your idea, e.g., as a paper]
   
-  (xiaohu is on the way comming ...)
+  (**xiaohu** is on the way comming ...)
 
 All together, 
 - what you have decided and the according instructions sent to 11buddies formed, （we call it ）a **Study_TaskList**.
@@ -61,7 +61,7 @@ All together,
 #### Research - 'focus'
 Sounds great... Well, you know, the 'publish or perish'? **Buddy, what exactly can you do for me**, hurry up.
 
-...got it. For example, Have a look at https://github.com/rwfwuwx/Xianglab-publication-code.
+...got it. For example, have a look at https://github.com/rwfwuwx/Xianglab-publication-code.
 
 #### Teaching
 You might be a teacher. 
