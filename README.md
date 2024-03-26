@@ -78,4 +78,5 @@ Instead of the conventional interactions between you and students (*teacher-stud
 - eeglab: preprocessing (ica) used by andy
 - Brainstorm: preprocessing (source transformation) used by andy
 - spm: base library used by dahei
+- MRICron: data visualization used by ada.
 - BrainNet Viewer: data visualization used by ada.
