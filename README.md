@@ -80,7 +80,7 @@ Instead of the conventional interactions between you and students (*teacher-stud
 
   It is the connection of info that moves our society forward. Humans are one type of info carrier. Unfortunately, people forgot (or have not realized yet), they are carriers of, but not the info per se. Therefore, they ask for connection of people rather than connection of info; and fall in Sartre's hell again and agian.
 
-So, welcome to 11paradise
+Welcome to 11paradise,
 
 ![why_11buddy_small](https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/0220b0a4-7d25-42bd-b9e9-6919ad16bbe5)
 
