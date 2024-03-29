@@ -50,7 +50,8 @@ Now you conceive an idea, to test it, you decide to
 
 - [report your idea, e.g., as a paper]
   
-  (**xiaohu** is on the way comming ...)
+  (![xiaohu_icon](https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/784485d6-85f7-4072-a7e8-9c6572ca05ee)
+ **xiaohu** is on the way comming ...)
 
 All together, 
 - what you have decided and the according instructions sent to 11buddies formed, （we call it ）a **Study_TaskList**.
@@ -70,7 +71,25 @@ Instead of the conventional interactions between you and students (*teacher-stud
 
 (comming)
 
+## anyway, Why 11buddy?
+- “Hell is other people” (from No Exit) --- Jean-Paul Sartre.
+  
+  Why are people still there? Way get out there?
+
+- Connection of info, not connection of people
+
+  It is the connection of info that moves our society forward. Humans are one type of info carrier. Unfortunately, people forgot (or have not realized yet), they are carriers of, but not the info per se. Therefore, they ask for connection of people rather than connection of info; and fall in Sartre's hell again and agian.
+
+So, welcome to 11paradise
+
+![why_11buddy_small](https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/0220b0a4-7d25-42bd-b9e9-6919ad16bbe5)
+
+
+
 ## Notes
+### no chat
+Chat with xiaohu after xiaohu is born.
+
 ### dependency
 - Matlab
 - Psychtoolbox: base library used by yangyang
