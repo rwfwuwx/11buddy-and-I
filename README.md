@@ -78,7 +78,7 @@ Instead of the conventional interactions between you and students (*teacher-stud
 
 - Connection of info, not connection of people
 
-  It is the connection of info that moves our society forward. Humans are one type of info carrier. Unfortunately, people forgot (or have not realized yet), they are carriers of, but not the info per se. Therefore, they ask for connection of people rather than connection of info; and fall in Sartre's hell again and agian.
+  It is the connection of info that moves our society forward. Humans are one type of info carrier. Unfortunately, people forgot (or have not realized yet), they are carriers of, but not the info per se. Therefore, they ask for connection of people rather than connection of info; and fall in Sartre's hell over and over.
 
 Welcome to 11paradise,
 
