@@ -25,7 +25,6 @@ This would, much depend on what do you do and what do you need.
 ### Cognitive neuroscience research platform
 #### Research
 Suppose you work in Cognitive neuroscience, and/or related areas such as Psychology, Neural/Psychiatrical diseases.
-
 (Also assmue you are a lab PI, not necessary, just make the end-do-end research cycle more clear.)
 
 Now you conceive an idea, to test it, you decide to,
@@ -54,11 +53,9 @@ Now you conceive an idea, to test it, you decide to,
   (![xiaohu_icon](https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/784485d6-85f7-4072-a7e8-9c6572ca05ee)
  **xiaohu** is on the way comming ...)
 
-All together, 
+All together, a **Study_TaskList**,
 
-what you have decided and the according instructions sent to 11buddies formed, （we call it），
-
-  a **Study_TaskList**: in this way, 11buddies work with you finishing your research.
+what you have decided and the according instructions sent to 11buddies formed（we call it）a Study_TaskList： with which 11buddies work with you, get your research done.
 
 ![11buddy_illustration_20220721_small](https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/8522c03f-8a91-4b19-bc0a-1a5fda6ac0e6)
 
