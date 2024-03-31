@@ -88,7 +88,7 @@ Welcome to 11paradise,
 
 ## Notes
 ### no chat
-Chat with xiaohu after xiaohu is born.
+Chat with xiaohu after her birth.
 
 ### dependency
 - Matlab
