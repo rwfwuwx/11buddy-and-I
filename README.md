@@ -51,7 +51,7 @@ Now you conceive an idea, to test it, you decide to,
 - [report your idea, e.g., as a paper]
   
   (![xiaohu_icon](https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/784485d6-85f7-4072-a7e8-9c6572ca05ee)
- **xiaohu** is on the way comming ...)
+ **xiaohu** is on the way coming ...)
 
 All together, a **Study_TaskList**,
 
@@ -69,7 +69,7 @@ You might be a teacher, or a student.
 
 Instead of the conventional interactions between the teacher and the student (*teacher-student*), why not to ask 11buddy to interact with either/both, i.e., *teacher-11buddy-student*?
 
-(comming)
+(coming)
 
 ## anyway, Why 11buddy?
 - “Hell is other people” (from No Exit) --- Jean-Paul Sartre.
