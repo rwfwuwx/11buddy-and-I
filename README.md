@@ -1,7 +1,7 @@
 # 11buddy-&-I
 ![11buddy_gif](https://github.com/user-attachments/assets/27ab48f2-dcaa-4584-8e78-6051e110c654)
 
-<img src="https://github.com/user-attachments/assets/0cac6517-518d-44f5-9f72-ec5536a42974" width="500" />
+<img src="https://github.com/user-attachments/assets/0cac6517-518d-44f5-9f72-ec5536a42974" width="480" />
 
 ## Who are they ?
 (11buddy-&-I has been on https://gitee.com/rwfwuwx/elevenBuddy since 2021-01-29. From 2024, latest updates are now maintained here. 
