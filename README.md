@@ -82,7 +82,7 @@ Instead of the conventional interactions between the teacher and the student (*t
 
 Welcome to 11paradise,
 
-![why_11buddy_small](https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/0220b0a4-7d25-42bd-b9e9-6919ad16bbe5)
+<img src="https://github.com/user-attachments/assets/7ecbe28e-64a0-4da5-8052-ab0b5dcd8039" width="600" />
 
 
 
@@ -90,8 +90,7 @@ Welcome to 11paradise,
 ### chat
 xiaohu would be glad to chat with you. (Currently available only to lab members and collabrators, due to limitations including data privacy)
 
-![image](https://github.com/user-attachments/assets/bac94cc5-2f00-45ee-bd4a-e764086639cd)
-
+<img src="https://github.com/user-attachments/assets/bac94cc5-2f00-45ee-bd4a-e764086639cd" width="600" />
 
 ### dependency
 - Matlab
