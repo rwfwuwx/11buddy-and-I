@@ -1,6 +1,6 @@
 # 11buddy-&-I
-
 <img src="https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/445aba7f-40cb-4e5d-b842-3c09cf92c7a9" width="500" />
+
 
 <img src="https://github.com/user-attachments/assets/0cac6517-518d-44f5-9f72-ec5536a42974" width="500" />
 
