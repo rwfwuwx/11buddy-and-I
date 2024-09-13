@@ -1,8 +1,7 @@
 # 11buddy-&-I
 ![11buddy_gif](https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/445aba7f-40cb-4e5d-b842-3c09cf92c7a9)
 
-![11Paradise_logo_en_small](https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/7345a615-e0da-466f-8bca-6228612e62e3)
-
+<img src="https://github.com/user-attachments/assets/0cac6517-518d-44f5-9f72-ec5536a42974" width="500" />
 
 ## Who are they ?
 (11buddy-&-I has been on https://gitee.com/rwfwuwx/elevenBuddy since 2021-01-29. From 2024, latest updates are now maintained here. 
