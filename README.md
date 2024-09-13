@@ -1,5 +1,5 @@
 # 11buddy-&-I
-![11buddy_gif](https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/445aba7f-40cb-4e5d-b842-3c09cf92c7a9)
+<img src="https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/445aba7f-40cb-4e5d-b842-3c09cf92c7a9" width="500" />
 
 <img src="https://github.com/user-attachments/assets/0cac6517-518d-44f5-9f72-ec5536a42974" width="500" />
 
@@ -56,7 +56,7 @@ All together, a **Study_TaskList**,
 
 what you have decided and the according instructions sent to 11buddies formed（we call it）a Study_TaskList： with which 11buddies work with you, get your research done.
 
-![11buddy_illustration_20220721_small](https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/8522c03f-8a91-4b19-bc0a-1a5fda6ac0e6)
+<img src="https://github.com/user-attachments/assets/2edd9e32-375e-45f6-9f03-9d157ea5e2c6" width="600" />
 
 #### Research - 'focus'
 Sounds great... Well, you know, the 'publish or perish'? **Buddy, what exactly can you do for me**, hurry up.
@@ -82,7 +82,6 @@ Instead of the conventional interactions between the teacher and the student (*t
 Welcome to 11paradise,
 
 <img src="https://github.com/user-attachments/assets/7ecbe28e-64a0-4da5-8052-ab0b5dcd8039" width="600" />
-
 
 
 ## Notes
