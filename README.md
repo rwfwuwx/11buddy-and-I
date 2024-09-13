@@ -87,8 +87,11 @@ Welcome to 11paradise,
 
 
 ## Notes
-### no chat
-xiaohu would be glad to chat with you once she is born.
+### chat
+xiaohu would be glad to chat with you. (Currently available only to lab members and collabrators, due to limitations including data privacy)
+
+![image](https://github.com/user-attachments/assets/bac94cc5-2f00-45ee-bd4a-e764086639cd)
+
 
 ### dependency
 - Matlab
