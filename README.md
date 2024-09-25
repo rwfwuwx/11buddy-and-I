@@ -19,7 +19,7 @@ http://www.xianglab.com.cn/col.jsp?id=111
 
 
 ## What can they do for me ?
-This would, much depend on what do you do and what do you need.
+This would, much depend on what you do and what you need.
 
 ### Cognitive neuroscience research platform
 #### Research
@@ -77,7 +77,7 @@ Instead of the conventional interactions between the teacher and the student (*t
 
 - Connection of info, not connection of people
 
-  It is the connection of info that moves our society forward. Humans are one type of info carrier. Unfortunately, people forgot (or may have not realized yet), they are carriers of, but not the info per se. Therefore, instead of connection of info, they ask for connection of people; and stuck in Sartre's hell over and over.
+  It is the connection of info that moves our society forward. Humans are one type of info carrier. Unfortunately, people forgot (or may have not realized yet, or, perhaps select not to admit it), they are carriers of, but not the info per se. Therefore, instead of connection of info, they ask for connection of people; and stuck in Sartre's hell over and over.
 
 Welcome to 11paradise,
 
