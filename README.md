@@ -41,7 +41,7 @@ Now you conceive an idea, to test it, you decide to,
   ![gougou_icon](https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/7cc3b7f6-daa6-4d30-9a89-c7a60bf1307d) **gougou** would be glad to do the job for you.
 
 - **the “brain”**   
-  ![xiaohu_icon](https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/784485d6-85f7-4072-a7e8-9c6572ca05ee) **xiaohu** is our brain agent   
+  ![xiaohu_icon](https://github.com/rwfwuwx/11buddy-and-I/assets/60617251/784485d6-85f7-4072-a7e8-9c6572ca05ee) among all of us, **xiaohu** is our brain agent.   
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/6c995bdb-85c9-4796-a809-1849de79e068" />
 
 
