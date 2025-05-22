@@ -84,3 +84,4 @@ Meanwhile, xiaohu would be glad to chat. (Currently available only to lab member
 - spm: base library used by dahei
 - MRICron: data visualization used by ada.
 - BrainNet Viewer: data visualization used by ada.
+- llm models: which xiaohu is based on.
